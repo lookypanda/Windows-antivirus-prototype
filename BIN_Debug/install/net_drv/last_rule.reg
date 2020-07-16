@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\netfilter\rules\1]
+"TrafficAction"=dword:00000000
+"ParametersFlag"=dword:0000020d
+"RemoteIpv4Address"=dword:21c3a8c0
+"RemoteIpv4Mask"=dword:ffffffff
+"LocalIpv4Address"=dword:01c3a8c0
+"LocalIpv4Mask"=dword:ffffffff
+"TcpUdpRemotePort"=dword:00550032
+"TcpUdpLocalPort"=dword:00550032
+"PatternParam"=dword:00000021
+"PatternData"=hex:65,6D,61,69,6C

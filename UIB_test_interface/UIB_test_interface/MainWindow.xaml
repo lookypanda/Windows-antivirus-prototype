@@ -1,0 +1,263 @@
+﻿<Window x:Class="UIB_test_interface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UIB_test_interface"
+        mc:Ignorable="d"
+        Title="AV main" Height="651.5" Width="953" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="99*"/>
+            <ColumnDefinition Width="376*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Scan file" HorizontalAlignment="Right" Height="256" Margin="0,32,220,0" VerticalAlignment="Top" Width="304" Grid.Column="1">
+            <Grid Margin="0,10,-2,0">
+                <TextBox x:Name="upload_textBox" HorizontalAlignment="Left" Height="37" Margin="10,10,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="191" SpellCheck.IsEnabled="True" IsEnabled="False"/>
+                <Button x:Name="select_upload_butt" Content="Select file" HorizontalAlignment="Left" Margin="206,9,0,0" VerticalAlignment="Top" Width="78" Click="select_upload_butt_Button_Click"/>
+                <Button x:Name="Static_scan" Content="Static analysis" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top" Width="150" Click="Static_scan_Click"/>
+                <GroupBox Header="Lab 5" HorizontalAlignment="Left" Height="79" Margin="10,77,0,0" VerticalAlignment="Top" Width="274">
+                    <Grid Margin="0,0,0,0">
+                        <Button x:Name="lab5_IP_URL1" Content="IP URL 1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="Lab5_IP_URL1_Click"/>
+                        <Button x:Name="lab5_IP_URL2" Content="IP URL 2" HorizontalAlignment="Left" Margin="10,35,0,0" VerticalAlignment="Top" Width="75" Click="Lab5_IP_URL2_Click"/>
+                    </Grid>
+                </GroupBox>
+                <GroupBox Header="Cloud" HorizontalAlignment="Left" Margin="10,156,0,0" Width="274">
+                    <Grid Margin="0,0,0,0">
+                        <TextBox x:Name="Ip_addrBox" HorizontalAlignment="Left" Height="23" Margin="0,1,0,0" TextWrapping="Wrap" Text="192.168.31.212" VerticalAlignment="Top" Width="89"/>
+                        <Button x:Name="send_cloud" Content="Send to Cloud" HorizontalAlignment="Left" Margin="156,0,0,0" Width="98" Click="Button_Click_2"  VerticalAlignment="Top"/>
+                        <Button x:Name="update_button" Content="Update" HorizontalAlignment="Left" Margin="156,25,0,0" VerticalAlignment="Top" Width="98" Click="Update_button_Click"/>
+                    </Grid>
+                </GroupBox>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Service status" HorizontalAlignment="Left" Height="256" Margin="537,32,0,0" VerticalAlignment="Top" Width="195" Grid.Column="1">
+            <Grid Margin="0,0,12,-4">
+                <CheckBox x:Name="Dyn_checkBox" Content="Dynamic analysis" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" IsEnabled="False"/>
+                <CheckBox x:Name="Log_checkBox" Content="Logging server" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top" Checked="Log_checkBox_Copy_Checked" IsEnabled="False" RenderTransformOrigin="0.99,1.333"/>
+                <CheckBox x:Name="StatScan_checkBox" Content="Static file checking..." HorizontalAlignment="Left" Margin="10,50,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.99,1.333" IsEnabled="False"/>
+                <CheckBox x:Name="CloudScan_checkBox" Content="Cloud Scan running..." HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.99,1.333" IsEnabled="False"/>
+                <CheckBox x:Name="CloudUpdate_checkBox" Content="Cloud Update is running..." HorizontalAlignment="Left" Margin="10,90,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.99,1.333" IsEnabled="False"/>
+                <CheckBox x:Name="File_Filt_checkBox" Content="File Filter is running..." HorizontalAlignment="Left" Margin="10,110,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.99,1.333" IsEnabled="False"/>
+                <CheckBox x:Name="Net_Drv_checkBox" Content="Net Filter is running..." HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.99,1.333" IsEnabled="False"/>
+                <CheckBox x:Name="Static_checkBox_Copy" Content="Satic drv is running..." HorizontalAlignment="Left" Margin="10,150,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.99,1.333" IsEnabled="False"/>
+            </Grid>
+        </GroupBox>
+        <TabControl HorizontalAlignment="Left" Height="272" Margin="10,16,0,0" VerticalAlignment="Top" Width="411" Grid.ColumnSpan="2">
+            <TabItem Header="File filter" Width="60">
+                <Grid Background="WhiteSmoke">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="32*"/>
+                        <ColumnDefinition Width="103*"/>
+                    </Grid.ColumnDefinitions>
+                    <GroupBox Header="Protected files" HorizontalAlignment="Left" Height="250" VerticalAlignment="Top" Width="409" Margin="-4,0,0,-6" Grid.ColumnSpan="2">
+                        <Grid Margin="0,0,-12,-1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="10*"/>
+                                <ColumnDefinition Width="80*"/>
+                                <ColumnDefinition Width="309*"/>
+                            </Grid.ColumnDefinitions>
+                            <ListBox x:Name="filesList" SelectionChanged="FilesList_SelectionChanged" Margin="0,10,10,0" Height="159" VerticalAlignment="Top" Grid.Column="1" Grid.ColumnSpan="2"/>
+                            <Button x:Name="add_butt" Content="Add new" Margin="179,174,10,10" Click="Add_butt_Click" Grid.Column="2"/>
+                            <Button x:Name="Clear_button" Content="Clear list" HorizontalAlignment="Left" Margin="0,174,0,35" Width="75" Click="Button_Click" Grid.Column="1"/>
+                            <Button Content="Refresh" HorizontalAlignment="Left" Margin="0,199,0,10" Width="75" Click="Button_Click_1" Grid.Column="1"/>
+                        </Grid>
+                    </GroupBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Reg filter" Width="60">
+                <Grid Background="White">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="86*"/>
+                        <ColumnDefinition Width="319*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid HorizontalAlignment="Left" Height="244" VerticalAlignment="Top" Width="405" Grid.ColumnSpan="2"/>
+                    <GroupBox Header="Add reg key" HorizontalAlignment="Left" Height="66" VerticalAlignment="Top" Width="405" Grid.ColumnSpan="2">
+                        <Grid HorizontalAlignment="Left" Margin="0,-11,-2,-12" Width="395">
+                            <Button x:Name="add_ref_button" Content="Add rule" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="75" Click="Add_ref_button_Click"/>
+                            <TextBox x:Name="reg_path_text" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" Text="\REGISTRY\MACHINE\SOFTWARE\test" VerticalAlignment="Top" Width="375"/>
+                        </Grid>
+
+
+
+
+
+
+                    </GroupBox>
+                    <ListBox x:Name="reg_list" HorizontalAlignment="Left" Height="163" Margin="10,71,0,0" VerticalAlignment="Top" Width="385" Grid.ColumnSpan="2"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Net rules" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="60">
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*"/>
+                        <ColumnDefinition Width="13*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button x:Name="add_net_rule" Content="Add rule" HorizontalAlignment="Left" Margin="266,214,0,0" VerticalAlignment="Top" Width="75" Click="Add_net_rule_Click" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Action:" VerticalAlignment="Top"/>
+                    <TextBox x:Name="LocIPText" HorizontalAlignment="Left" Height="23" Margin="10,38,0,0" TextWrapping="Wrap" Text="192.168.195.1" VerticalAlignment="Top" Width="120" TextChanged="LocIPText_TextChanged" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,39,0,0" TextWrapping="Wrap" Text="Local IP" VerticalAlignment="Top"/>
+                    <TextBox x:Name="RemIPText" HorizontalAlignment="Left" Height="23" Margin="38,99,0,0" TextWrapping="Wrap" Text="192.168.195.1" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,100,0,0" TextWrapping="Wrap" Text="Remote IP" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+                    <TextBox x:Name="LocPortText" HorizontalAlignment="Left" Height="23" Margin="244,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" TextChanged="LocPortText_TextChanged" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="174,40,0,0" TextWrapping="Wrap" Text="Local Port" VerticalAlignment="Top" Grid.Column="1"/>
+                    <TextBox x:Name="RemPortText" HorizontalAlignment="Left" Height="23" Margin="248,100,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" TextChanged="RemPortText_TextChanged" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="174,103,0,0" TextWrapping="Wrap" Text="Remote  Port" VerticalAlignment="Top" Grid.Column="1"/>
+                    <ComboBox x:Name="ProtocolBox" HorizontalAlignment="Left" Margin="244,10,0,0" VerticalAlignment="Top" Width="65" Grid.Column="1">
+                        <ComboBoxItem Content="TCP" HorizontalAlignment="Left" Width="118" Selected="ComboBoxItem_Selected"/>
+                        <ComboBoxItem Content="UDP" HorizontalAlignment="Left" Width="118" Selected="ComboBoxItem_Selected"/>
+                        <ComboBoxItem Content="ICMP" HorizontalAlignment="Left" Width="118" Selected="ComboBoxItem_Selected" IsSelected="True"/>
+                    </ComboBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="174,13,0,0" TextWrapping="Wrap" Text="Protocol" VerticalAlignment="Top" Grid.Column="1"/>
+                    <TextBox x:Name="DataPattText" HorizontalAlignment="Left" Height="23" Margin="30,163,0,0" TextWrapping="Wrap" Text="data" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,166,0,0" TextWrapping="Wrap" Text="Data pattern" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+                    <ComboBox x:Name="ActionBox" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top" Width="65" Grid.Column="1">
+                        <ComboBoxItem Content="Log" HorizontalAlignment="Left" Width="92"/>
+                        <ComboBoxItem Content="Block" HorizontalAlignment="Left" Width="92" IsSelected="True"/>
+                    </ComboBox>
+                    <TextBlock HorizontalAlignment="Left" Margin="175,163,0,0" TextWrapping="Wrap" Text="Direction" VerticalAlignment="Top" Grid.Column="1"/>
+                    <ComboBox x:Name="DirectionBox" HorizontalAlignment="Left" Margin="229,160,0,0" VerticalAlignment="Top" Width="65" Grid.Column="1">
+                        <ComboBoxItem Content="In" HorizontalAlignment="Left" Width="92" IsSelected="True"/>
+                        <ComboBoxItem Content="Out" HorizontalAlignment="Left" Width="92"/>
+                    </ComboBox>
+                    <TextBox x:Name="DataOffsetText" HorizontalAlignment="Left" Height="23" Margin="30,184,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
+                    <TextBlock HorizontalAlignment="Left" Margin="10,187,0,0" TextWrapping="Wrap" Text="Data offset" VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Drv&amp;toggles" Width="80" >
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="22*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.ColumnSpan="2">
+                        <GroupBox Header="Dynamic analysis driver " HorizontalAlignment="Left" Height="51" Margin="10,10,0,0" VerticalAlignment="Top" Width="184">
+                            <Grid HorizontalAlignment="Left" Height="26" Margin="10,4,-2,-1" VerticalAlignment="Top" Width="164">
+                                <Button Content="Start" HorizontalAlignment="Left" Width="59" Height="20" VerticalAlignment="Bottom" Click="Button_Click_4" Margin="0,0,0,6"/>
+                                <Button Content="Stop" HorizontalAlignment="Left" Margin="73,0,0,0" VerticalAlignment="Top" Width="65" Click="Button_Click_5"/>
+                            </Grid>
+                        </GroupBox>
+                        <GroupBox Header="Static analysis driver " HorizontalAlignment="Left" Height="51" Margin="10,66,0,0" VerticalAlignment="Top" Width="184">
+                            <Grid HorizontalAlignment="Left" Height="26" Margin="10,4,-2,-1" VerticalAlignment="Top" Width="164">
+                                <Button x:Name="stat_start_button" Content="Start" HorizontalAlignment="Left" Width="59" Height="20" VerticalAlignment="Bottom" Margin="0,0,0,6" Click="Stat_start_button_Click"/>
+                                <Button x:Name="stat_stop_button" Content="Stop" HorizontalAlignment="Left" Margin="73,0,0,0" VerticalAlignment="Top" Width="65" Click="Stat_stop_button_Click"/>
+                            </Grid>
+                        </GroupBox>
+                        <GroupBox Header="debug&#xA;" HorizontalAlignment="Left" Height="49" Margin="10,189,0,0" VerticalAlignment="Top" Width="247" Visibility="Hidden">
+                            <Grid Margin="0,-30,-2,3" RenderTransformOrigin="0.5,0.5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="66*"/>
+                                    <ColumnDefinition Width="35*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RenderTransform>
+                                    <TransformGroup>
+                                        <ScaleTransform/>
+                                        <SkewTransform/>
+                                        <RotateTransform Angle="-1.011"/>
+                                        <TranslateTransform/>
+                                    </TransformGroup>
+                                </Grid.RenderTransform>
+                                <Button x:Name="fix_links_button" Content="Fix-links" HorizontalAlignment="Left" Margin="0,18,0,0" VerticalAlignment="Top" Width="75" Click="Fix_links_button_Click" Visibility="Hidden"/>
+                            </Grid>
+                        </GroupBox>
+                        <GroupBox Header="Install" HorizontalAlignment="Left" Height="67" Margin="10,122,0,0" VerticalAlignment="Top" Width="196">
+                            <Grid Margin="0,0,-2,3">
+                                <Button x:Name="copy_button" Content="Copy_ files" HorizontalAlignment="Left" Margin="10,12,0,0" VerticalAlignment="Top" Width="63" Click="Copy_button_Click"/>
+                                <Button Content="install drv's inf" HorizontalAlignment="Left" Margin="78,12,0,0" VerticalAlignment="Top" Width="98" Click="Button_Click_9"/>
+                            </Grid>
+                        </GroupBox>
+                        <GroupBox Header="File Filter driver " HorizontalAlignment="Left" Height="51" Margin="211,10,0,0" VerticalAlignment="Top" Width="184">
+                            <Grid HorizontalAlignment="Left" Height="26" Margin="10,4,-2,-1" VerticalAlignment="Top" Width="164">
+                                <Button x:Name="file_start_button1" Content="Start" HorizontalAlignment="Left" Width="59" Margin="0,0,0,6" Click="File_start_button1_Click"/>
+                                <Button x:Name="file_stop_button1" Content="Stop" HorizontalAlignment="Left" Margin="73,0,0,0" VerticalAlignment="Top" Width="65" Click="File_stop_button1_Click"/>
+                            </Grid>
+                        </GroupBox>
+                        <GroupBox Header="Net Filter driver " HorizontalAlignment="Left" Height="81" Margin="211,66,0,0" VerticalAlignment="Top" Width="184">
+                            <Grid HorizontalAlignment="Left" Margin="10,4,-2,-1" Width="164">
+                                <Button x:Name="Net_Filter_start_button" Content="Start" HorizontalAlignment="Left" Width="59" Click="Net_Filter_start_button_Click" Height="20" VerticalAlignment="Top"/>
+                                <Button x:Name="Net_Filter__stop_button" Content="Stop" HorizontalAlignment="Left" Margin="73,0,0,36" VerticalAlignment="Bottom" Width="65" Click="Net_Filter__stop_button_Click"/>
+                                <Button x:Name="Net_Filter_restart_button" Content="Restart" HorizontalAlignment="Left" Width="59" Margin="0,26,0,10" Click="Net_Filter_restart_button_Click"/>
+                            </Grid>
+                        </GroupBox>
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <TabControl HorizontalAlignment="Left" Height="318" Margin="10,292,0,0" VerticalAlignment="Top" Width="920" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+            <TabControl.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.139"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.498"/>
+                </TransformGroup>
+            </TabControl.RenderTransform>
+
+            <TabItem Header="Log"  Width="54" >
+                <Grid Background="#FFE5E5E5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70*"/>
+                        <ColumnDefinition Width="6*"/>
+                        <ColumnDefinition Width="637*"/>
+                        <ColumnDefinition Width="201*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Content="Refresh" HorizontalAlignment="Left" Margin="4,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_7" Grid.Column="3"/>
+                    <ListView x:Name="LogList" SelectionChanged="LogList_SelectionChanged"   Margin="10,38,10,10" Grid.ColumnSpan="4"   >
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn DisplayMemberBinding="{Binding TIME}" Width="120" Header="TIME"/>
+                                <GridViewColumn DisplayMemberBinding="{Binding PID}" Width="50" Header="PID"/>
+                                <GridViewColumn DisplayMemberBinding="{Binding TID}" Width="50" Header="TID"/>
+                                <GridViewColumn DisplayMemberBinding="{Binding Function}" Width="120" Header="Function"/>
+                                <GridViewColumn DisplayMemberBinding="{Binding Params}" Width="400" Header="Params"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Button x:Name="start_logging_Copy" Content="Start Logging service" HorizontalAlignment="Left" VerticalAlignment="Top" Width="122" Click="Start_logging_Click" Margin="505,10,0,0" Grid.Column="2"/>
+                    <Button x:Name="Log_clear" Content="Clear" Grid.Column="3" HorizontalAlignment="Left" Margin="95,10,0,0" VerticalAlignment="Top" Width="75" Click="Log_clear_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="File&amp;Reg log" HorizontalAlignment="Left" Height="22" VerticalAlignment="Top" Width="80">
+                <Grid Background="#FFE5E5E5">
+                    <ListView x:Name="File_log_List"   Margin="10,35,10,2"   >
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn DisplayMemberBinding="{Binding data}" Width="100" Header="Date"/>
+                                <GridViewColumn DisplayMemberBinding="{Binding time}" Width="100" Header="Time"/>
+                                <GridViewColumn DisplayMemberBinding="{Binding Event}" Width="650" Header="Event"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                    <Button x:Name="file_drv_log_clear" Content="Clear Rules" HorizontalAlignment="Left" Margin="640,10,0,0" VerticalAlignment="Top" Width="76" Click="File_drv_log_clear_Click"/>
+                    <Button x:Name="file_drv_log_refresh" Content="Refresh" HorizontalAlignment="Left" Margin="721,10,0,0" VerticalAlignment="Top" Width="75" Click="File_drv_log_refresh_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Net rules">
+                <Grid Background="#FFE5E5E5">
+                    <Grid HorizontalAlignment="Left" Height="268" Margin="10,10,0,0" VerticalAlignment="Top" Width="894" Grid.ColumnSpan="2">
+                        <ListView x:Name="NetRuleList" SelectionChanged="LogList_SelectionChanged"   Margin="10,38,10,10" Grid.ColumnSpan="4"   >
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn DisplayMemberBinding="{Binding number}" Width="50" Header="Number"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding Action}" Width="50" Header="Action"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding Protocol}" Width="50" Header="Protocol"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding Direction}" Width="60" Header="Direction"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding LocalIP}" Width="120" Header="LocalIP"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding LocalPort}" Width="60" Header="LocalPort"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding RemIP}" Width="120" Header="RemIP"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding RemPort}" Width="60" Header="RemPort"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding DataPattern}" Width="70" Header="DataPattern"/>
+                                    <GridViewColumn DisplayMemberBinding="{Binding DataOffset}" Width="60" Header="DataOffset"/>
+
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                        <Button Content="Refresh" HorizontalAlignment="Left" Margin="774,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_6"/>
+                    </Grid>
+                    <Button Content="Clear Rules" HorizontalAlignment="Left" Margin="702,20,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_8" Visibility="Hidden"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

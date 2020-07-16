@@ -1,0 +1,1018 @@
+{"FUNCT":"","PARAM":"","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName IMM32.dll, DllHandle 77A20000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":3784,"TID":3064,"TIME":"21:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3784,"TID":3064,"TIME":"21:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3784,"TID":3064,"TIME":"21:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 002C5E08)","PID":3784,"TID":3064,"TIME":"21:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":3784,"TID":3064,"TIME":"21:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3784,"TID":3064,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"","PARAM":"","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName IMM32.dll, DllHandle 77A20000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 00445E08)","PID":3348,"TID":3240,"TIME":"25:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":3348,"TID":3240,"TIME":"27:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3348,"TID":3240,"TIME":"29:13:15 15.2.2020"}
+{"FUNCT":"","PARAM":"","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName IMM32.dll, DllHandle 77A20000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 001C5E08)","PID":3176,"TID":3220,"TIME":"33:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":3176,"TID":3220,"TIME":"35:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3176,"TID":3220,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Users/MyDream/Desktop/ShellTest.exe","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: /??/C:/Windows/system32/conhost.exe","PID":3708,"TID":3360,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3708,"TID":3360,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 009715BA, Argument 00000000)","PID":3708,"TID":3360,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3708,"TID":1008,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3708,"TID":1008,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3708,"TID":1008,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3708,"TID":1008,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3708,"TID":1008,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00973080, Argument 00000000)","PID":3708,"TID":1008,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":3708,"TID":2420,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3708,"TID":2420,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":3708,"TID":2420,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":3708,"TID":2420,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3708,"TID":2420,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":3708,"TID":2420,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":3708,"TID":2420,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-synch-l1-2-0, DllHandle 713B0000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-fibers-l1-1-1, DllHandle 00000000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK WinExec ","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-fibers-l1-1-1, DllHandle 00000000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-synch-l1-2-0, DllHandle 713B0000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-localization-l1-2-1, DllHandle 00000000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 0000005C, ThreadHandle 00000058, ProcessFlags 4, ThreadFlags 1)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c pause)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress00050020, 00050053, BufferSize 52)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress7FFD6238, 7FFD623B, BufferSize 4)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c pause","PID":4000,"TID":3188,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":4000,"TID":3188,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":4000,"TID":3188,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":3708,"TID":2420,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"WinExec","PARAM":"(lpCmdLine ping 8.8.8.8, uCmdShow 5)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000058, ThreadHandle 0000005C, ProcessFlags 0, ThreadFlags 1)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/ping.exe,  CommandLine: ping 8.8.8.8)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050020, 00050053, BufferSize 52)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress7FFDF238, 7FFDF23B, BufferSize 4)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000058, ThreadHandle 0000005C, ProcessFlags 4, ThreadFlags 1)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c ping localhost)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050020, 00050053, BufferSize 52)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress7FFD6238, 7FFD623B, BufferSize 4)","PID":932,"TID":4048,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c ping localhost","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping 8.8.8.8","PID":3780,"TID":1600,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000054, ThreadHandle 00000050, ProcessFlags 4, ThreadFlags 1)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/PING.EXE,  CommandLine: ping  localhost)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3780,"TID":1600,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050020, 00050053, BufferSize 52)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress7FFDA238, 7FFDA23B, BufferSize 4)","PID":892,"TID":3988,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3780,"TID":1600,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3780,"TID":1600,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3780,"TID":1600,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 002A8D78)","PID":3780,"TID":1600,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping  localhost","PID":204,"TID":1392,"TIME":"37:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":3780,"TID":1600,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wshtcpip, DllHandle 74FC0000)","PID":3780,"TID":1600,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wship6.dll, DllHandle 75460000)","PID":3780,"TID":1600,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshqos.dll, DllHandle 71DD0000)","PID":3780,"TID":1600,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshtcpip.dll, DllHandle 74FC0000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wship6.dll, DllHandle 75460000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/mswsock.dll, DllHandle 75470000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName DNSAPI.dll, DllHandle 75330000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName IPHLPAPI.DLL, DllHandle 73D90000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RPCRT4.dll, DllHandle 766A0000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 000F3788)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rasadhlp.dll, DllHandle 72530000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/fwpuclnt.dll, DllHandle 73C00000)","PID":204,"TID":1392,"TIME":"39:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 75FF42ED, Argument 001CFA44)","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName PROPSYS.dll, DllHandle 74860000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName apphelp.dll, DllHandle 75930000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/ieframe.dll, DllHandle 6D900000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName urlmon.dll, DllHandle 76560000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Core-LocalRegistry-L1-1-0.dll, DllHandle 76350000)","PID":932,"TID":2016,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SETUPAPI.dll, DllHandle 773A0000)","PID":932,"TID":2016,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":932,"TID":2016,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/propsys.dll, DllHandle 74860000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ntmarta.dll, DllHandle 742C0000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName profapi.dll, DllHandle 75A30000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/urlmon.dll, DllHandle 76560000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SspiCli.dll, DllHandle 75910000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 003C9DD0)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000230, ThreadHandle 000001D4, ProcessFlags 0, ThreadFlags 1)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/System32/cmd.exe,  CommandLine: C:/Windows/System32/cmd.exe /c ping 8.8.4.4)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000230,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000230,  BaseAddress00050020, 00050053, BufferSize 52)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000230,  BaseAddress7FFD4238, 7FFD423B, BufferSize 4)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000104, ThreadHandle 00000114, ProcessFlags 4, ThreadFlags 1)","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c pause)","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000104,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000104,  BaseAddress00050020, 00050053, BufferSize 52)","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":932,"TID":2832,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000104,  BaseAddress7FFD6238, 7FFD623B, BufferSize 4)","PID":932,"TID":4048,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/System32/cmd.exe /c ping 8.8.4.4","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c pause","PID":912,"TID":1656,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: /??/C:/Windows/system32/conhost.exe","PID":2032,"TID":3076,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":912,"TID":1656,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":912,"TID":1656,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2032,"TID":3076,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 009715BA, Argument 00000000)","PID":2032,"TID":3076,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2032,"TID":3744,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2032,"TID":3744,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2032,"TID":3744,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2032,"TID":3744,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2032,"TID":3744,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00973080, Argument 00000000)","PID":2032,"TID":3744,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":2032,"TID":3956,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2032,"TID":3956,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":2032,"TID":3956,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":2032,"TID":3956,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":2032,"TID":3956,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":2032,"TID":3956,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":2032,"TID":3956,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000054, ThreadHandle 00000050, ProcessFlags 4, ThreadFlags 1)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/PING.EXE,  CommandLine: ping  8.8.4.4)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050020, 00050053, BufferSize 52)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress7FFD8238, 7FFD823B, BufferSize 4)","PID":2252,"TID":3472,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping  8.8.4.4","PID":2244,"TID":2180,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2244,"TID":2180,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":2244,"TID":2180,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2244,"TID":2180,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":2244,"TID":2180,"TIME":"43:13:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 00359DB0)","PID":2244,"TID":2180,"TIME":"45:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":2244,"TID":2180,"TIME":"45:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wshtcpip, DllHandle 74FC0000)","PID":2244,"TID":2180,"TIME":"45:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wship6.dll, DllHandle 75460000)","PID":2244,"TID":2180,"TIME":"45:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshqos.dll, DllHandle 71DD0000)","PID":2244,"TID":2180,"TIME":"45:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":2032,"TID":3956,"TIME":"45:13:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/System32/slui.exe -Embedding","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 000AB008)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/rsaenh.dll, DllHandle 75250000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RpcRtRemote.dll, DllHandle 75A20000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 000AD390)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Core-LocalRegistry-L1-1-0.dll, DllHandle 76350000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/oleaut32.dll, DllHandle 761F0000)","PID":3808,"TID":2928,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/sppcomapi.dll, DllHandle 74670000)","PID":3808,"TID":2280,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SXS.DLL, DllHandle 75990000)","PID":3808,"TID":2928,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3808,"TID":2928,"TIME":"35:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3808,"TID":2280,"TIME":"37:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName sppc.dll, DllHandle 74C30000)","PID":3808,"TID":2280,"TIME":"37:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/SPPC.DLL, DllHandle 74C30000)","PID":3808,"TID":2280,"TIME":"37:14:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 74C38580, Argument 000A6208)","PID":3808,"TID":2280,"TIME":"37:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3808,"TID":2280,"TIME":"37:14:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-appmodel-runtime-l1-1-1, DllHandle 00000000)","PID":932,"TID":4048,"TIME":"59:17:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ext-ms-win-kernel32-package-current-l1-1-0, DllHandle 00000000)","PID":932,"TID":4048,"TIME":"59:17:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Users/MyDream/Desktop/ShellTest.exe","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: /??/C:/Windows/system32/conhost.exe","PID":2096,"TID":2512,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2096,"TID":2512,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 009715BA, Argument 00000000)","PID":2096,"TID":2512,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2096,"TID":1620,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2096,"TID":1620,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2096,"TID":1620,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2096,"TID":1620,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2096,"TID":1620,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00973080, Argument 00000000)","PID":2096,"TID":1620,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":2096,"TID":2004,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2096,"TID":2004,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":2096,"TID":2004,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":2096,"TID":2004,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":2096,"TID":2004,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":2096,"TID":2004,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":2096,"TID":2004,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-synch-l1-2-0, DllHandle 713B0000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-fibers-l1-1-1, DllHandle 00000000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK WinExec ","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-fibers-l1-1-1, DllHandle 00000000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-synch-l1-2-0, DllHandle 713B0000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-localization-l1-2-1, DllHandle 00000000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 0000005C, ThreadHandle 00000058, ProcessFlags 4, ThreadFlags 1)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c pause)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress00050020, 00050053, BufferSize 52)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress7FFD3238, 7FFD323B, BufferSize 4)","PID":4032,"TID":1152,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c pause","PID":3696,"TID":1948,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3696,"TID":1948,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3696,"TID":1948,"TIME":"23:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":2096,"TID":2004,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"WinExec","PARAM":"(lpCmdLine ping 8.8.8.8, uCmdShow 5)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000058, ThreadHandle 0000005C, ProcessFlags 0, ThreadFlags 1)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/ping.exe,  CommandLine: ping 8.8.8.8)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050020, 00050053, BufferSize 52)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress7FFDE238, 7FFDE23B, BufferSize 4)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000058, ThreadHandle 0000005C, ProcessFlags 4, ThreadFlags 1)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c ping localhost)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050020, 00050053, BufferSize 52)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress7FFD6238, 7FFD623B, BufferSize 4)","PID":4032,"TID":1152,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c ping localhost","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping 8.8.8.8","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000054, ThreadHandle 00000050, ProcessFlags 4, ThreadFlags 1)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/PING.EXE,  CommandLine: ping  localhost)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050020, 00050053, BufferSize 52)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress7FFDF238, 7FFDF23B, BufferSize 4)","PID":1112,"TID":3052,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping  localhost","PID":1040,"TID":3584,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 0033C800)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wshtcpip, DllHandle 74FC0000)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":1040,"TID":3584,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wship6.dll, DllHandle 75460000)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshqos.dll, DllHandle 71DD0000)","PID":2532,"TID":148,"TIME":"25:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshtcpip.dll, DllHandle 74FC0000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wship6.dll, DllHandle 75460000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/mswsock.dll, DllHandle 75470000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName DNSAPI.dll, DllHandle 75330000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName IPHLPAPI.DLL, DllHandle 73D90000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RPCRT4.dll, DllHandle 766A0000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 002A3788)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rasadhlp.dll, DllHandle 72530000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/fwpuclnt.dll, DllHandle 73C00000)","PID":1040,"TID":3584,"TIME":"27:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":4032,"TID":1152,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":4032,"TID":1152,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":4032,"TID":1152,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":4032,"TID":1152,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 75FF42ED, Argument 002FFADC)","PID":4032,"TID":1152,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName PROPSYS.dll, DllHandle 74860000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName apphelp.dll, DllHandle 75930000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/ieframe.dll, DllHandle 6D900000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName urlmon.dll, DllHandle 76560000)","PID":4032,"TID":1096,"TIME":"29:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Core-LocalRegistry-L1-1-0.dll, DllHandle 76350000)","PID":4032,"TID":3704,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SETUPAPI.dll, DllHandle 773A0000)","PID":4032,"TID":3704,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":4032,"TID":3704,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/propsys.dll, DllHandle 74860000)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ntmarta.dll, DllHandle 742C0000)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName profapi.dll, DllHandle 75A30000)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/urlmon.dll, DllHandle 76560000)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SspiCli.dll, DllHandle 75910000)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 0049A088)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 0000024C, ThreadHandle 000001D8, ProcessFlags 0, ThreadFlags 1)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/System32/cmd.exe,  CommandLine: C:/Windows/System32/cmd.exe /c ping 8.8.4.4)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000024C,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000024C,  BaseAddress00050020, 00050053, BufferSize 52)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000024C,  BaseAddress7FFDF238, 7FFDF23B, BufferSize 4)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 000000FC, ThreadHandle 000000F4, ProcessFlags 4, ThreadFlags 1)","PID":4032,"TID":1152,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c pause)","PID":4032,"TID":1152,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":4032,"TID":1096,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 000000FC,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":4032,"TID":1152,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 000000FC,  BaseAddress00050020, 00050053, BufferSize 52)","PID":4032,"TID":1152,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 000000FC,  BaseAddress7FFDF238, 7FFDF23B, BufferSize 4)","PID":4032,"TID":1152,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/System32/cmd.exe /c ping 8.8.4.4","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c pause","PID":816,"TID":3732,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":816,"TID":3732,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":816,"TID":3732,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: /??/C:/Windows/system32/conhost.exe","PID":2140,"TID":2208,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2140,"TID":2208,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 009715BA, Argument 00000000)","PID":2140,"TID":2208,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2140,"TID":3224,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2140,"TID":3224,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2140,"TID":3224,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2140,"TID":3224,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2140,"TID":3224,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00973080, Argument 00000000)","PID":2140,"TID":3224,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":2140,"TID":920,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2140,"TID":920,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":2140,"TID":920,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":2140,"TID":920,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":2140,"TID":920,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":2140,"TID":920,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":2140,"TID":920,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000054, ThreadHandle 00000050, ProcessFlags 4, ThreadFlags 1)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/PING.EXE,  CommandLine: ping  8.8.4.4)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050020, 00050053, BufferSize 52)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress7FFDD238, 7FFDD23B, BufferSize 4)","PID":1460,"TID":1880,"TIME":"31:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping  8.8.4.4","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 00198A28)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wshtcpip, DllHandle 74FC0000)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wship6.dll, DllHandle 75460000)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshqos.dll, DllHandle 71DD0000)","PID":3340,"TID":688,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":2140,"TID":920,"TIME":"33:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-appmodel-runtime-l1-1-1, DllHandle 00000000)","PID":4032,"TID":1152,"TIME":"51:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: consent.exe 944 304 018DC940","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName Secur32.dll, DllHandle 757D0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 0015BFA8)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RPCRT4.dll, DllHandle 766A0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtReadVirtualMemory","PARAM":"(00000100, 018DC940, 26069615)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 717C273D, Argument 0014D5C0)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2596,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHLWAPI.dll, DllHandle 75FE0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName WINTRUST.dll, DllHandle 75BD0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 75E28BEC, Argument 00166530)","PID":3812,"TID":2596,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/rsaenh.dll, DllHandle 75250000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":3812,"TID":2596,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName uxtheme.dll, DllHandle 74770000)","PID":3812,"TID":2596,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":3812,"TID":2596,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName WINTRUST.DLL, DllHandle 75BD0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/CRYPT32.dll, DllHandle 75AB0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 75AE85ED, Argument 00164C80)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName imagehlp.dll, DllHandle 77A50000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPT32.dll, DllHandle 75AB0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName USER32.dll, DllHandle 75D40000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName bcrypt.dll, DllHandle 755C0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/bcryptprimitives.dll, DllHandle 75190000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-WIN-Service-Management-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-WIN-Service-winsvc-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ncrypt.dll, DllHandle 755E0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName USERENV.dll, DllHandle 75090000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName GPAPI.dll, DllHandle 75070000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-WIN-Service-Management-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-WIN-Service-Management-L2-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName WINSTA.dll, DllHandle 759F0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName cryptnet.dll, DllHandle 6B520000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHLWAPI.dll, DllHandle 75FE0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName profapi.dll, DllHandle 75A30000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName VERSION.dll, DllHandle 74F30000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/urlmon.dll, DllHandle 76560000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00FB1360, Argument 001CF6C0)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName WINSTA.dll, DllHandle 759F0000)","PID":3812,"TID":3760,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName credui.dll, DllHandle 6FAF0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-WIN-Service-Management-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/authui.dll, DllHandle 73020000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":3812,"TID":3760,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-WIN-Service-winsvc-L1-1-0.dll, DllHandle 76330000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RPCRT4.dll, DllHandle 766A0000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName MMDevAPI.DLL, DllHandle 744F0000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdiplus.dll, DllHandle 73560000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wdmaud.drv, DllHandle 72A70000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wdmaud.drv, DllHandle 72A70000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName MMDEVAPI.DLL, DllHandle 744F0000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Core-LocalRegistry-L1-1-0.dll, DllHandle 76350000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SETUPAPI.dll, DllHandle 773A0000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":3812,"TID":3760,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wdmaud.drv, DllHandle 72A70000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wdmaud.drv, DllHandle 72A70000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wdmaud.drv, DllHandle 72A70000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHLWAPI.dll, DllHandle 75FE0000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName DUI70.dll, DllHandle 73FC0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName Comctl32.dll, DllHandle 74960000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ntdll.dll, DllHandle 778E0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName AUDIOSES.DLL, DllHandle 729A0000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wdmaud.drv, DllHandle 72A70000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wdmaud.drv, DllHandle 72A70000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wdmaud.drv, DllHandle 72A70000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName msacm32.drv, DllHandle 72990000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName midimap.dll, DllHandle 72960000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName midimap.dll, DllHandle 72960000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName midimap.dll, DllHandle 72960000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName midimap.dll, DllHandle 72960000)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 72A780EB, Argument 001C9698)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ntdll.dll, DllHandle 778E0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName DUser.dll, DllHandle 74B00000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/DUser.dll, DllHandle 74B00000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 75EF12E5, Argument 00E81C30)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName user32.dll, DllHandle 75D40000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/xmllite.dll, DllHandle 747D0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/audioses.dll, DllHandle 729A0000)","PID":3812,"TID":3272,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName DUser.dll, DllHandle 74B00000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 744F27E1, Argument 00203530)","PID":3812,"TID":2812,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CFGMGR32.dll, DllHandle 75C20000)","PID":3812,"TID":1840,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":3812,"TID":2780,"TIME":"53:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":3812,"TID":2780,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":3812,"TID":2596,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/msctf.dll, DllHandle 75E10000)","PID":3812,"TID":2596,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3812,"TID":2596,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":3812,"TID":2596,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3812,"TID":3272,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":3812,"TID":2780,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName VERSION.dll, DllHandle 74F30000)","PID":3812,"TID":2780,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/DllHost.exe /Processid:{E10F6C3A-F1AE-4ADC-AA9D-2FE65525666E}","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 003880C0)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/rsaenh.dll, DllHandle 75250000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RpcRtRemote.dll, DllHandle 75A20000)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 0038D2B0)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 0038D2D8)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3624,"TID":1088,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3624,"TID":1088,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3624,"TID":1088,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":3624,"TID":1088,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760AA2E1, Argument 0037F9A8)","PID":3624,"TID":2196,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName imm32.dll, DllHandle 77A20000)","PID":3624,"TID":1020,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/shacct.dll, DllHandle 74560000)","PID":3624,"TID":1020,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHLWAPI.dll, DllHandle 75FE0000)","PID":3624,"TID":1020,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/USERENV.dll, DllHandle 75090000)","PID":3624,"TID":1020,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/IDStore.dll, DllHandle 74600000)","PID":3624,"TID":1020,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000100,  BaseAddress0158F288, 0158F28B, BufferSize 4)","PID":3812,"TID":2780,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName WINTRUST.dll, DllHandle 75BD0000)","PID":3812,"TID":2780,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/DllHost.exe /Processid:{E10F6C3A-F1AE-4ADC-AA9D-2FE65525666E}","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 004280E0)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/rsaenh.dll, DllHandle 75250000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RpcRtRemote.dll, DllHandle 75A20000)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 0042E308)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 0042E330)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760AA2E1, Argument 0041F988)","PID":3928,"TID":2408,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName imm32.dll, DllHandle 77A20000)","PID":3928,"TID":1704,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/shacct.dll, DllHandle 74560000)","PID":3928,"TID":1704,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHLWAPI.dll, DllHandle 75FE0000)","PID":3928,"TID":1704,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/USERENV.dll, DllHandle 75090000)","PID":3928,"TID":1704,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/IDStore.dll, DllHandle 74600000)","PID":3928,"TID":1704,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"","PARAM":"","PID":2556,"TID":2108,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: /??/C:/Windows/system32/conhost.exe","PID":2296,"TID":4052,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2296,"TID":4052,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 009715BA, Argument 00000000)","PID":2296,"TID":4052,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2296,"TID":2476,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2296,"TID":2476,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2296,"TID":2476,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2296,"TID":2476,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2296,"TID":2476,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00973080, Argument 00000000)","PID":2296,"TID":2476,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":2296,"TID":3412,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2296,"TID":3412,"TIME":"55:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":2296,"TID":3412,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":2296,"TID":3412,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":2296,"TID":3412,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":2296,"TID":3412,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":2296,"TID":3412,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":2296,"TID":3412,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000058, ThreadHandle 00000008, ProcessFlags 4, ThreadFlags 1)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/AV/bin/injdrv_x86/Release/injldr.exe,  CommandLine: injldr.exe  -u)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050020, 00050053, BufferSize 52)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress7FFDC238, 7FFDC23B, BufferSize 4)","PID":2556,"TID":2108,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: injldr.exe  -u","PID":2888,"TID":1032,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":2888,"TID":1032,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK WinExec ","PID":2888,"TID":1032,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":2888,"TID":1032,"TIME":"56:19:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Users/MyDream/Desktop/ShellTest.exe","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: /??/C:/Windows/system32/conhost.exe","PID":608,"TID":3072,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":608,"TID":3072,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 009715BA, Argument 00000000)","PID":608,"TID":3072,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":608,"TID":2180,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":608,"TID":2180,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":608,"TID":2180,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":608,"TID":2180,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":608,"TID":2180,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00973080, Argument 00000000)","PID":608,"TID":2180,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":608,"TID":3472,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":608,"TID":3472,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":608,"TID":3472,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":608,"TID":3472,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":608,"TID":3472,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":608,"TID":3472,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":608,"TID":3472,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-synch-l1-2-0, DllHandle 713B0000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-fibers-l1-1-1, DllHandle 00000000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK WinExec ","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-fibers-l1-1-1, DllHandle 00000000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-synch-l1-2-0, DllHandle 713B0000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-localization-l1-2-1, DllHandle 00000000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 0000005C, ThreadHandle 00000058, ProcessFlags 4, ThreadFlags 1)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c pause)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress00150000, 0015001F, BufferSize 32)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress00150020, 00150053, BufferSize 52)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 0000005C,  BaseAddress7FFDF238, 7FFDF23B, BufferSize 4)","PID":2540,"TID":3024,"TIME":"21:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c pause","PID":3956,"TID":2244,"TIME":"23:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3956,"TID":2244,"TIME":"23:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3956,"TID":2244,"TIME":"23:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":608,"TID":3472,"TIME":"23:20:15 15.2.2020"}
+{"FUNCT":"WinExec","PARAM":"(lpCmdLine ping 8.8.8.8, uCmdShow 5)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000058, ThreadHandle 0000005C, ProcessFlags 0, ThreadFlags 1)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/ping.exe,  CommandLine: ping 8.8.8.8)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00090000, 0009001F, BufferSize 32)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00090020, 00090053, BufferSize 52)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress7FFDB238, 7FFDB23B, BufferSize 4)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000058, ThreadHandle 0000005C, ProcessFlags 4, ThreadFlags 1)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c ping localhost)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress00050020, 00050053, BufferSize 52)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000058,  BaseAddress7FFD3238, 7FFD323B, BufferSize 4)","PID":2540,"TID":3024,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping 8.8.8.8","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c ping localhost","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000054, ThreadHandle 00000050, ProcessFlags 4, ThreadFlags 1)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/PING.EXE,  CommandLine: ping  localhost)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00050020, 00050053, BufferSize 52)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress7FFD8238, 7FFD823B, BufferSize 4)","PID":3596,"TID":2120,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 001479D0)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping  localhost","PID":3260,"TID":3192,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wshtcpip, DllHandle 74FC0000)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wship6.dll, DllHandle 75460000)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshqos.dll, DllHandle 71DD0000)","PID":2340,"TID":2452,"TIME":"27:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshtcpip.dll, DllHandle 74FC0000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wship6.dll, DllHandle 75460000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/mswsock.dll, DllHandle 75470000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName DNSAPI.dll, DllHandle 75330000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName IPHLPAPI.DLL, DllHandle 73D90000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RPCRT4.dll, DllHandle 766A0000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 005C3788)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rasadhlp.dll, DllHandle 72530000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/fwpuclnt.dll, DllHandle 73C00000)","PID":3260,"TID":3192,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2540,"TID":3024,"TIME":"29:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 75FF42ED, Argument 0020FAE0)","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName PROPSYS.dll, DllHandle 74860000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName apphelp.dll, DllHandle 75930000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/ieframe.dll, DllHandle 6D900000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName urlmon.dll, DllHandle 76560000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Core-LocalRegistry-L1-1-0.dll, DllHandle 76350000)","PID":2540,"TID":2552,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SETUPAPI.dll, DllHandle 773A0000)","PID":2540,"TID":2552,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":2540,"TID":2552,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/propsys.dll, DllHandle 74860000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ntmarta.dll, DllHandle 742C0000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-SDDL-L1-1-0.dll, DllHandle 76330000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName profapi.dll, DllHandle 75A30000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/urlmon.dll, DllHandle 76560000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SspiCli.dll, DllHandle 75910000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 00308070)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"MsgBox_INFO","PARAM":"ResponseOk button clicked","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000248, ThreadHandle 000001D4, ProcessFlags 0, ThreadFlags 1)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/System32/cmd.exe,  CommandLine: C:/Windows/System32/cmd.exe /c ping 8.8.4.4)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000248,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000248,  BaseAddress00050020, 00050053, BufferSize 52)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000248,  BaseAddress7FFD8238, 7FFD823B, BufferSize 4)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 000001C0, ThreadHandle 00000078, ProcessFlags 4, ThreadFlags 1)","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/cmd.exe,  CommandLine: C:/Windows/system32/cmd.exe /c pause)","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/System32/cmd.exe /c ping 8.8.4.4","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 000001C0,  BaseAddress00050000, 0005001F, BufferSize 32)","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 000001C0,  BaseAddress00050020, 00050053, BufferSize 52)","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 000001C0,  BaseAddress7FFD6238, 7FFD623B, BufferSize 4)","PID":2540,"TID":3024,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":2540,"TID":3932,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/system32/cmd.exe /c pause","PID":3096,"TID":952,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: /??/C:/Windows/system32/conhost.exe","PID":2920,"TID":3336,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3096,"TID":952,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3096,"TID":952,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2920,"TID":3336,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 009715BA, Argument 00000000)","PID":2920,"TID":3336,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2920,"TID":1652,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2920,"TID":1652,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2920,"TID":1652,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2920,"TID":1652,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2920,"TID":1652,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00973080, Argument 00000000)","PID":2920,"TID":1652,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":2920,"TID":3000,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2920,"TID":3000,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32, DllHandle 74960000)","PID":2920,"TID":3000,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/ole32.dll, DllHandle 76090000)","PID":2920,"TID":3000,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":2920,"TID":3000,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/MSCTF.dll, DllHandle 75E10000)","PID":2920,"TID":3000,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName UxTheme.dll, DllHandle 74770000)","PID":2920,"TID":3000,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000054, ThreadHandle 00000050, ProcessFlags 4, ThreadFlags 1)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcessARGS","PARAM":"(ImagePathName C:/Windows/system32/PING.EXE,  CommandLine: ping  8.8.4.4)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00090000, 0009001F, BufferSize 32)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress00090020, 00090053, BufferSize 52)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000054,  BaseAddress7FFD8238, 7FFD823B, BufferSize 4)","PID":3476,"TID":428,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: ping  8.8.4.4","PID":452,"TID":2056,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":452,"TID":2056,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":452,"TID":2056,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":452,"TID":2056,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":452,"TID":2056,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 00248A28)","PID":452,"TID":2056,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/mswsock.dll, DllHandle 75470000)","PID":452,"TID":2056,"TIME":"31:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wshtcpip, DllHandle 74FC0000)","PID":452,"TID":2056,"TIME":"33:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wship6.dll, DllHandle 75460000)","PID":452,"TID":2056,"TIME":"33:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/wshqos.dll, DllHandle 71DD0000)","PID":452,"TID":2056,"TIME":"33:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.DLL, DllHandle 761F0000)","PID":2920,"TID":3000,"TIME":"33:20:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-appmodel-runtime-l1-1-1, DllHandle 00000000)","PID":2540,"TID":3024,"TIME":"37:20:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: C:/Windows/System32/slui.exe -Embedding","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 002AB008)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/rsaenh.dll, DllHandle 75250000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RpcRtRemote.dll, DllHandle 75A20000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 002AD390)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Core-LocalRegistry-L1-1-0.dll, DllHandle 76350000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName comctl32.dll, DllHandle 74960000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/sppcomapi.dll, DllHandle 74670000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/oleaut32.dll, DllHandle 761F0000)","PID":2596,"TID":2812,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SXS.DLL, DllHandle 75990000)","PID":2596,"TID":2812,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":2596,"TID":2812,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/slui.exe, DllHandle 00BF0000)","PID":2596,"TID":2812,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00BF854A, Argument 002A61A8)","PID":2596,"TID":2812,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2596,"TID":3496,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2596,"TID":3496,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2596,"TID":3496,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/uxtheme.dll, DllHandle 74770000)","PID":2596,"TID":3496,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 002D21A8)","PID":2596,"TID":3496,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 002D22C0)","PID":2596,"TID":3496,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 002D2338)","PID":2596,"TID":3496,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dwmapi.dll, DllHandle 74810000)","PID":2596,"TID":3496,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":2596,"TID":1596,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName sppc.dll, DllHandle 74C30000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/System32/SPPC.DLL, DllHandle 74C30000)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 74C38580, Argument 002A6308)","PID":2596,"TID":2788,"TIME":"35:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHELL32.dll, DllHandle 76750000)","PID":2596,"TID":3496,"TIME":"37:29:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK SHELL32.dll ","PID":2596,"TID":3496,"TIME":"37:29:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":2596,"TID":3496,"TIME":"37:29:15 15.2.2020"}
+{"FUNCT":"LAUNCH","PARAM":"Arch: x86, CommandLine: taskeng.exe {E9C6EA78-41A9-4B1C-88C3-2BAAB83237E1} S-1-5-18:NT AUTHORITY/System:Service:","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 00344448)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/rsaenh.dll, DllHandle 75250000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SHLWAPI.dll, DllHandle 75FE0000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName SspiCli.dll, DllHandle 75910000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTSP.dll, DllHandle 754B0000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName RpcRtRemote.dll, DllHandle 75A20000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 0034B1F8)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CLBCatQ.DLL, DllHandle 77A80000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/tschannel.dll, DllHandle 746B0000)","PID":452,"TID":3476,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName XmlLite.dll, DllHandle 747D0000)","PID":452,"TID":1080,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 00731C98, Argument 006D52B0)","PID":452,"TID":1080,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtCreateUserProcess","PARAM":"(ProcessHandle 00000148, ThreadHandle 00000144, ProcessFlags 0, ThreadFlags 1)","PID":452,"TID":2552,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"","PARAM":"","PID":452,"TID":2552,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/apphelp.dll, DllHandle 75930000)","PID":452,"TID":2552,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000148,  BaseAddress00050000, 000505DB, BufferSize 1500)","PID":452,"TID":2552,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000148,  BaseAddress7FFD61E8, 7FFD61EB, BufferSize 4)","PID":452,"TID":2552,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000148,  BaseAddress00060000, 0006001F, BufferSize 32)","PID":452,"TID":2552,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000148,  BaseAddress00060020, 00060053, BufferSize 52)","PID":452,"TID":2552,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtWriteVirtualMemory","PARAM":"(ProcessHandle 00000148,  BaseAddress7FFD6238, 7FFD623B, BufferSize 4)","PID":452,"TID":2552,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"","PARAM":"","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"INFO","PARAM":"TRY to HOOK WinExec ","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-synch-l1-2-0, DllHandle 713B0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-fibers-l1-1-1, DllHandle 00000000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-localization-l1-2-1, DllHandle 00000000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ole32.dll, DllHandle 76090000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-synch-l1-2-0, DllHandle 713B0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-fibers-l1-1-1, DllHandle 00000000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32, DllHandle 76350000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-core-localization-l1-2-1, DllHandle 00000000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName kernel32.dll, DllHandle 76350000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Program Files/Google/Update/1.3.35.442/goopdate.dll, DllHandle 6B2E0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName wkscli.dll, DllHandle 74190000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 7790FD0F, Argument 002A5A98)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName cscapi.dll, DllHandle 71CA0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ntmarta.dll, DllHandle 742C0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 6B3EC767, Argument 002A3368)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dbghelp.dll, DllHandle 70D50000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 6B3EC767, Argument 002A3368)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName dbghelp.dll, DllHandle 70D50000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName rpcrt4.dll, DllHandle 766A0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ADVAPI32.dll, DllHandle 76280000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName API-MS-Win-Security-LSALookup-L1-1-0.dll, DllHandle 76330000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":3848,"TID":3472,"TIME":"5:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName api-ms-win-appmodel-runtime-l1-1-1, DllHandle 00000000)","PID":3848,"TID":3472,"TIME":"7:35:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName ext-ms-win-kernel32-package-current-l1-1-0, DllHandle 00000000)","PID":3848,"TID":3472,"TIME":"7:35:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 0034B3B0)","PID":452,"TID":3476,"TIME":"7:40:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":452,"TID":3476,"TIME":"7:40:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 002C5E80)","PID":2596,"TID":3496,"TIME":"49:50:15 15.2.2020"}
+{"FUNCT":"NtCreateThreadEx","PARAM":"(ProcessHandle FFFFFFFF, StartRoutine 760BD864, Argument 002D2540)","PID":2596,"TID":3496,"TIME":"51:50:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName OLEAUT32.dll, DllHandle 761F0000)","PID":2596,"TID":3496,"TIME":"51:50:15 15.2.2020"}
+{"FUNCT":" C:/Program Files/Internet Explorer/iexplore.exe In func: DnsGetProxyInformationHook ","PARAM":" Detected suspicious URL: yandex.ru ","PID":5555,"TID":1111,"TIME":"50:40:2 18.2.2020"}
+{"FUNCT":" C:/Program Files/Internet Explorer/iexplore.exe In func: DnsGetProxyInformationHook ","PARAM":" Detected suspicious URL: yandex.ru ","PID":5555,"TID":1111,"TIME":"51:40:2 18.2.2020"}
+{"FUNCT":" C:/Program Files/Internet Explorer/iexplore.exe In func: DnsNameCompare_WHook1 ","PARAM":" Detected suspicious URL: yandex.ru ","PID":5555,"TID":1111,"TIME":"52:40:2 18.2.2020"}

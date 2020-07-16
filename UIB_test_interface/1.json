@@ -1,0 +1,3 @@
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName C:/Windows/system32/IMM32.DLL, DllHandle 77A20000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName gdi32.dll, DllHandle 75F90000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}
+{"FUNCT":"LdrLoadDll","PARAM":"(DllName CRYPTBASE.dll, DllHandle 75980000)","PID":3784,"TID":3064,"TIME":"19:13:15 15.2.2020"}

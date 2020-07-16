@@ -1,0 +1,59 @@
+;;;
+;;; Copyright (c) Microsoft Corporation. All rights reserved
+;;;
+;;; Abstract:
+;;;    Traffic net-filter Callout sample driver install configuration.
+;;;
+
+[Version]
+    Signature   = "$Windows NT$"
+    Class       = WFPCALLOUTS
+    ClassGuid   = {57465043-616C-6C6F-7574-5F636C617373}
+    Provider    = %ProviderString%
+    CatalogFile = net-filter-driver.cat
+    DriverVer = 02/15/2020,22.48.36.32
+
+[SourceDisksNames]
+   1 = %netfilterDisk%,,,""
+
+[SourceDisksFiles]
+   net-filter-driver.sys = 1,,
+
+[DestinationDirs]
+    DefaultDestDir      = 12                                               ; %WinDir%\System32\Drivers
+    netfilter.DriverFiles = 12                                               ; %WinDir%\System32\Drivers
+
+[DefaultInstall]
+    OptionDesc = %netfilterServiceDesc%
+    CopyFiles  = netfilter.DriverFiles
+
+[DefaultInstall.Services]
+    AddService = %netfilterServiceName%,,netfilter.Service
+
+[DefaultUninstall]
+    DelFiles = netfilter.DriverFiles
+
+[DefaultUninstall.Services]
+    DelService = %netfilterServiceName%,0x200								; SPSVCINST_STOPSERVICE
+
+[netfilter.DriverFiles]
+    net-filter-driver.sys,,,0x00000040										; COPYFLG_OVERWRITE_OLDER_ONLY
+
+[netfilter.Service]
+    DisplayName   = %netfilterServiceName%
+    Description   = %netfilterServiceDesc%
+    ServiceType   = 1														; SERVICE_KERNEL_DRIVER
+    StartType     = 3														; SERVICE_DEMAND_START
+    ErrorControl  = 1														; SERVICE_ERROR_NORMAL
+    ServiceBinary = %12%\net-filter-driver.sys								; %WinDir%\System32\Drivers\net-filter-driver.sys
+    AddReg        = netfilter.AddRegistry
+
+[netfilter.AddRegistry]
+	HKR,"rules",,,
+
+
+[Strings]
+    ProviderString     = "TODO-Set-Provider"
+	netfilterDisk        = "Traffic netfilter Installation Disk"
+    netfilterServiceDesc = "Traffic netfilter Callout Driver"
+    netfilterServiceName = "netfilter"
